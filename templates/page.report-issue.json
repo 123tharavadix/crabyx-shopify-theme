@@ -1,1 +1,1 @@
-{"sections":{"main":{"type":"main-page","settings":{"show_title":true}}},"order":["main"]}
+{"sections":{"main":{"type":"report-issue","settings":{"heading":"Report an issue","intro":"Help us improve CRABYX by telling us what went wrong."}}},"order":["main"]}
