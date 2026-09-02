@@ -1,1 +1,65 @@
-{"sections":{"hero":{"type":"hero"},"products":{"type":"featured-products"},"categories":{"type":"collection-grid"},"trending":{"type":"product-slider"},"newsletter":{"type":"newsletter"}},"order":["hero","products","categories","trending","newsletter"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "hero": {
+      "type": "hero",
+      "settings": {
+        "eyebrow": "WELCOME TO CRABYX",
+        "heading": "CRAB YOUR DEALS",
+        "subheading": "Discover products worth adding to your everyday.",
+        "button_label": "Shop now",
+        "button_link": ""
+      }
+    },
+    "products": {
+      "type": "featured-products",
+      "settings": {
+        "eyebrow": "CRABYX PICKS",
+        "heading": "Made for your everyday",
+        "collection": "",
+        "products_to_show": 4
+      }
+    },
+    "categories": {
+      "type": "collection-grid",
+      "settings": {
+        "eyebrow": "SHOP BY CATEGORY",
+        "heading": "Find your next favourite",
+        "limit": 4
+      }
+    },
+    "trending": {
+      "type": "product-slider",
+      "settings": {
+        "eyebrow": "TRENDING NOW",
+        "heading": "Customer favourites",
+        "collection": "",
+        "limit": 8
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "eyebrow": "STAY IN THE LOOP",
+        "heading": "New drops. Better picks.",
+        "text": "Get product updates and offers from CRABYX.",
+        "button": "Subscribe"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "products",
+    "categories",
+    "trending",
+    "newsletter"
+  ]
+}
