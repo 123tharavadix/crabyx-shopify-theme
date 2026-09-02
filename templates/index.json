@@ -1,1 +1,1 @@
-{"sections":{"announcement":{"type":"announcement-bar"},"hero":{"type":"hero"},"products":{"type":"featured-products"}},"order":["announcement","hero","products"]}
+{"sections":{"hero":{"type":"hero"},"products":{"type":"featured-products"},"categories":{"type":"collection-grid"},"trending":{"type":"product-slider"},"newsletter":{"type":"newsletter"}},"order":["hero","products","categories","trending","newsletter"]}
